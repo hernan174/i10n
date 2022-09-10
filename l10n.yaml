@@ -1,0 +1,4 @@
+arb-dir: lib/l10n # ruta donde se encuentran los string
+template-arb-file: app_es.arb #Es el archivo que se usa de plantilla para generar las traducciones
+output-localization-file: app_localizations.dart #directorio de salida donde se crearan la referencia a los textos.Esto se encuentra ubicado en la raiz del proyecto en 
+#la carpeta flutter_gen/gen_i10n

@@ -1,0 +1,12 @@
+{
+    "appTitle": "Ejemplo Flutter",
+    "homePageTitle":" flutter demo pagina inicial",
+    "homePageTextInfo":"Has pulsado el botón tantas veces:",
+    "homePageButonIncrementar":"Incrementar",
+    "homePageButonEspanol":"Cambiar a Español",
+    "homePageButonIngles":"Cambiar al Ingles"
+   
+
+	
+}
+  

@@ -1,0 +1,30 @@
+name: i10n
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
+dependencies:
+  bloc: ^8.1.0
+  cupertino_icons: ^1.0.2
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+
+#Para poder utilizar se debe agregar estas dependencias
+  flutter_localizations:
+    sdk: flutter
+  intl: ^0.17.0
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  #Agregar esta bandera para que pueda se pueda utilizar la internacionalizacion en el proecto 
+  generate: true 
+  uses-material-design: true

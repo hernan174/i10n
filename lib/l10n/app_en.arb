@@ -1,0 +1,9 @@
+{
+    "appTitle": "Flutter Demo",
+    "homePageTitle": "Flutter Demo Home Page",
+    "homePageTextInfo":"You have pushed the button this many times:",
+    "homePageButonIncrementar":"Increment",
+    "homePageButonEspanol":"Change to Spanish",
+    "homePageButonIngles":"Change to English"
+}
+  
